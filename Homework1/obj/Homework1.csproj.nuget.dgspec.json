@@ -1,27 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mikko\\source\\repos\\Homework1\\Homework1\\Homework1.csproj": {}
+    "C:\\Users\\mikko\\source\\repos\\Homework1\\Homework1\\Homework1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mikko\\source\\repos\\Homework1\\Homework1\\Homework1.csproj": {
+    "C:\\Users\\mikko\\source\\repos\\Homework1\\Homework1\\Homework1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mikko\\source\\repos\\Homework1\\Homework1\\Homework1.csproj",
+        "projectUniqueName": "C:\\Users\\mikko\\source\\repos\\Homework1\\Homework1\\Homework1.csproj",
         "projectName": "Homework1",
-        "projectPath": "C:\\Users\\Mikko\\source\\repos\\Homework1\\Homework1\\Homework1.csproj",
-        "packagesPath": "C:\\Users\\Mikko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mikko\\source\\repos\\Homework1\\Homework1\\obj\\",
+        "projectPath": "C:\\Users\\mikko\\source\\repos\\Homework1\\Homework1\\Homework1.csproj",
+        "packagesPath": "C:\\Users\\mikko\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mikko\\source\\repos\\Homework1\\Homework1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Mikko\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mikko\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
